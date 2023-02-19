@@ -1,0 +1,10 @@
+.singlepro-container{
+    padding: 30px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+.singlepro-box{
+    /* border: 1px solid; */
+    height: 100%;
+    width: 100%;
+} 

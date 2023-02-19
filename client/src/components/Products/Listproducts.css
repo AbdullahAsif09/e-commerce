@@ -1,0 +1,38 @@
+.listpro-container{
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+}
+.listpro-container h1{
+    text-align: center;
+}
+.listpro-filter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.list-filterOne{
+    gap: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list-filterTwo{
+    gap: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.listpro-items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 1px solid rgb(226, 225, 225);
+    border-radius: 7px;
+}
+.listpro-items-display{
+    display: flex;
+}

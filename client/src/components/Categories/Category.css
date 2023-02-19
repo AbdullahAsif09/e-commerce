@@ -1,0 +1,18 @@
+.category-container {
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 91%;
+    background-color: #ffffff;
+}
+@media only screen and (max-width: 1155px) {
+.category-container {
+        width: 70%;
+        background-color: #ffffff;
+    }
+}
